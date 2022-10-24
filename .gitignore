@@ -1,0 +1,12 @@
+bundletool-all-1.4.0.jar
+.gradle
+bin
+obj
+/BE/MultiSensor/.vs
+*.user
+/BE/MultiSensor/MultiSensor/Properties
+/Docs/ТЗ
+/deploy
+.vs
+Output
+ArduinoOutput
